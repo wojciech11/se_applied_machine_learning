@@ -15,6 +15,10 @@ conda install --channel fastchan -y nbdev
 conda install --channel conda-forge -y scikit-learn \
 	matplotlib \
 	pandas
+
+# examples with fastai
+conda install  --channel fastchan --yes fastai
+pip install -Uqq fastbook
 ```
 
 Zainstaluj `quarto` z pomocą instrukcji na [oficjalnej stronie](https://quarto.org/docs/get-started/) lub użyj komendy z `nbdev`:
