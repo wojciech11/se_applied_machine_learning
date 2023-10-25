@@ -12,9 +12,9 @@ Korzystamy channels z [conda-forge](https://anaconda.org/conda-forge/repo) i [fa
 # basic libs:
 conda install --channel fastchan jupyterlab ipywidgets
 conda install --channel fastchan -y nbdev
-conda install --channel conda-forge -y scikit-learn
-conda install --channel conda-forge -y matplotlib
-conda install --channel conda-forge -y pandas
+conda install --channel conda-forge -y scikit-learn \
+                                       matplotlib \
+                                       pandas
 ```
 
 Zainstaluj `quarto` z pomocą instrukcji na [oficjalnej stronie](https://quarto.org/docs/get-started/) lub użyj komendy z `nbdev`:
