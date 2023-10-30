@@ -1,6 +1,6 @@
 # Wprowadzenie Machine Learning
 
-Program:
+Wykład:
 
 0. [Wstęp oraz dodatkowe narzędzia](00_wstep/README.md);
 
@@ -21,3 +21,7 @@ Program:
    3. Przykłady regresji,
    4. Large language models
    5. Metryki.
+
+Ćwiczenia:
+
+- TBA
