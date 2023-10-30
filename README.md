@@ -2,9 +2,9 @@
 
 Program:
 
-0. [Wstęp oraz dodatkowe narzędzia](00_wstep/README.md).
+0. [Wstęp oraz dodatkowe narzędzia](00_wstep/README.md);
 
-1. Intro 1/3: Podstawy.
+1. Intro 1/3: Podstawy;
 
 2. Intro 2/3 - [notebook](02_notebook/introduction.ipynb):
 
