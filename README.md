@@ -2,6 +2,8 @@
 
 Program:
 
+0. [Wstęp + jak uzyskać kredyty na GCP](00_wstep/README.md).
+
 1. Intro 1/3: Podstawy.
 
 2. Intro 2/3 - [notebook](02_notebook/introduction.ipynb):
@@ -19,3 +21,7 @@ Program:
    3. Przykłady regresji,
    4. Large language models
    5. Metryki.
+
+4. Materiały do nauki:
+
+   - []
